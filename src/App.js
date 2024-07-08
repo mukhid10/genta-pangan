@@ -32,7 +32,9 @@ function App() {
 
             <div className="d-flex align-items-center mt-3">
               <div className="font-weight-bold" style={{ minWidth: '100px', fontWeight:'bold' }}>Website:</div>
-              <div>https://genta-pangan-pasuruan-raya1189.vercel.app/</div>
+              <a style={{color:'blue', cursor:'pointer', textDecoration:'underlined'}}
+              href='https://genta-pangan-pasuruan-raya1189.vercel.app/'
+              >https://genta-pangan-pasuruan-raya1189.vercel.app/</a>
             </div>
           </div>
         </Col>
